@@ -1,1 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF">
+
+    <!-- Image de fond -->
+
+    <!-- Texte Bienvenue -->
+
+    <ImageView
+        android:id="@+id/imageLivre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.9"
+        android:scaleType="centerCrop"
+        android:src="@drawable/brain" />
+
+    <TextView
+        android:id="@+id/textBienvenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenue dans MEMORY"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"/>
+
+</FrameLayout>
 
