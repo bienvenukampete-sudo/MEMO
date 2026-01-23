@@ -34,7 +34,7 @@
         android:layout_margin="16dp"
         app:layout_anchor="@id/recyclerViewTasks"/>
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -71,3 +71,4 @@
     </LinearLayout>
 
 </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
