@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MEMO</string>
-</resources>
+    <string name="app_name">Planificateur de Tâches</string>
+</resources> 
